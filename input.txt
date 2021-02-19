@@ -1,0 +1,5 @@
+psi       wire    CNOT    CNOT(2)    CNOT(3)  CNOT(4)
+label(0)
+label(0)
+label(0)
+label(0)
