@@ -1,13 +1,32 @@
-<svg version="1.1" baseProfile="full" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-<line x1="0" y1="25" x2="50" y2="25" stroke="black" />
-<rect x="55" y="5" width="40" height="40" stroke="black" fill="white" />
-<line x1="50" y1="25" x2="55" y2="25" stroke="black" />
-<line x1="95" y1="25" x2="100" y2="25" stroke="black" />
-<text font-family="monospace" x="75" y="29" text-anchor="middle">A</text><line x1="100" y1="25" x2="150" y2="25" stroke="black" />
-<rect x="155" y="55" width="40" height="40" stroke="black" fill="white" />
-<line x1="150" y1="75" x2="155" y2="75" stroke="black" />
-<line x1="195" y1="75" x2="200" y2="75" stroke="black" />
-<text font-family="monospace" x="175" y="79" text-anchor="middle">B</text><rect x="55" y="55" width="40" height="40" stroke="black" fill="white" />
-<line x1="50" y1="75" x2="55" y2="75" stroke="black" />
-<line x1="95" y1="75" x2="100" y2="75" stroke="black" />
-<text font-family="monospace" x="75" y="79" text-anchor="middle">H</text></svg>
+<svg version="1.1" baseProfile="full" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+<line x1="50" y1="25" x2="100" y2="25" stroke="black" />
+<line x1="50" y1="75" x2="100" y2="75" stroke="black" />
+<line x1="50" y1="125" x2="100" y2="125" stroke="black" />
+<line x1="50" y1="175" x2="100" y2="175" stroke="black" />
+<line x1="50" y1="225" x2="100" y2="225" stroke="black" />
+<line x1="100" y1="25" x2="150" y2="25" stroke="black" />
+<line x1="100" y1="75" x2="150" y2="75" stroke="black" />
+<line x1="100" y1="125" x2="150" y2="125" stroke="black" />
+<line x1="100" y1="175" x2="150" y2="175" stroke="black" />
+<line x1="100" y1="225" x2="150" y2="225" stroke="black" />
+<line x1="150" y1="25" x2="200" y2="25" stroke="black" />
+<line x1="150" y1="75" x2="200" y2="75" stroke="black" />
+<line x1="150" y1="125" x2="200" y2="125" stroke="black" />
+<line x1="150" y1="175" x2="200" y2="175" stroke="black" />
+<line x1="150" y1="225" x2="200" y2="225" stroke="black" />
+<line x1="200" y1="25" x2="250" y2="25" stroke="black" />
+<line x1="200" y1="75" x2="250" y2="75" stroke="black" />
+<line x1="200" y1="125" x2="250" y2="125" stroke="black" />
+<line x1="200" y1="175" x2="250" y2="175" stroke="black" />
+<line x1="200" y1="225" x2="250" y2="225" stroke="black" />
+<line x1="250" y1="25" x2="300" y2="25" stroke="black" />
+<line x1="250" y1="75" x2="300" y2="75" stroke="black" />
+<line x1="250" y1="125" x2="300" y2="125" stroke="black" />
+<line x1="250" y1="175" x2="300" y2="175" stroke="black" />
+<line x1="250" y1="225" x2="300" y2="225" stroke="black" />
+<text font-family="monospace" x="25" y="29" text-anchor="middle">|0〉</text><text font-family="monospace" x="25" y="79" text-anchor="middle">|0〉</text><text font-family="monospace" x="25" y="129" text-anchor="middle">|0〉</text><text font-family="monospace" x="25" y="179" text-anchor="middle">|0〉</text><text font-family="monospace" x="25" y="229" text-anchor="middle">|0〉</text><line x1="275" y1="125" x2="275" y2="25" stroke="black" />
+<rect x="255" y="5" width="40" height="40" stroke="black" fill="white" />
+<circle cx="275" cy="125" r="3" /><rect x="205" y="55" width="40" height="90" stroke="black" fill="white" />
+<text font-family="monospace" x="225" y="79" text-anchor="middle">M</text><rect x="55" y="55" width="40" height="40" stroke="black" fill="white" />
+<text font-family="monospace" x="75" y="79" text-anchor="middle">A</text><rect x="155" y="105" width="40" height="40" stroke="black" fill="white" />
+<text font-family="monospace" x="175" y="129" text-anchor="middle">H</text></svg>
